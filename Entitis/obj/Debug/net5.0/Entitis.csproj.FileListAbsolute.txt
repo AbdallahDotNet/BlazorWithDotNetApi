@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\BlazorCrud\Entitis\bin\Debug\net5.0\Entitis.deps.json
+C:\Users\dell\source\repos\BlazorCrud\Entitis\bin\Debug\net5.0\Entitis.dll
+C:\Users\dell\source\repos\BlazorCrud\Entitis\bin\Debug\net5.0\ref\Entitis.dll
+C:\Users\dell\source\repos\BlazorCrud\Entitis\bin\Debug\net5.0\Entitis.pdb
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\Entitis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\Entitis.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\Entitis.AssemblyInfo.cs
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\Entitis.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\Entitis.dll
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\ref\Entitis.dll
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\Entitis.pdb
+C:\Users\dell\source\repos\BlazorCrud\Entitis\obj\Debug\net5.0\Entitis.csproj.AssemblyReference.cache

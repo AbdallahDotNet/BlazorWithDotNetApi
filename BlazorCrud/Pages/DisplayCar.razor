@@ -1,0 +1,6 @@
+﻿@inherits DisplayCarBase
+
+<div class="alert alert-info">@carViewModel.name  <NavLink class="btn btn-warning" href="@($"update/{carViewModel.id}")" style="color:#fff" Match="NavLinkMatch.All">edit</NavLink> | <a class="btn btn-danger" style="color:#fff" @onclick="showModal">delete</a></div>
+<hr />
+
+<ConfirmDelete @ref="deleteBase" onChangeModelState="Delete"></ConfirmDelete>

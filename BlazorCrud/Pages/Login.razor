@@ -1,0 +1,12 @@
+﻿@page "/login"
+@inherits LoginBase
+<h3>Login</h3>
+
+<EditForm Model="model" OnValidSubmit="login">
+    <DataAnnotationsValidator />
+    <input @bind-value="model.email" placeholder="email" />
+    <ValidationMessage For="(() => model.email)" />
+    <input @bind-value="model.password" placeholder="password" />
+    <ValidationMessage For="(() => model.password)" />
+    <button>login</button>
+</EditForm>

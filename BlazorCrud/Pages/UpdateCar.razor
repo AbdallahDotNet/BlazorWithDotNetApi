@@ -1,0 +1,20 @@
+﻿@page "/update/{id}"
+<h3>UpdateCar</h3>
+
+@page "/edit/{id?}"
+@inherits UpdateBase
+
+<h3>UpdateCar</h3>
+
+<EditForm Model="model" OnValidSubmit="Update">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <input @bind-value="model.name" />
+    <ValidationMessage For="@(() => model.name)" />
+    <button class="btn btn-info" style="color:#fff">edit</button>
+</EditForm>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
